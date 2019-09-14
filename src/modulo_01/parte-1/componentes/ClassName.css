@@ -1,0 +1,20 @@
+.bloco-lista {
+  display: flex; 
+  flex-direction: column; 
+  justify-content: space-around;
+  margin-right: 20px;
+}
+.lista-estilizada {
+  margin-top: 10px;
+  border: 1px solid blue;
+  padding: 25px;
+}
+.item-cor {
+  color: #67000F;
+}
+
+/*
+	Curso de Desenvolvimento de aplicações para internet com ReactJS.
+	Noções de estilos em elementos e componentes:
+	Noções sobre estilização de componentes e elementos CSS.
+*/
